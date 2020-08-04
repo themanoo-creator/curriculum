@@ -48,7 +48,7 @@ To give you a good bit of practice, we have created an online classroom on repl.
 
 - The classroom and lessons can be found [here](https://repl.it/community/classrooms/34425). Sign up or login to repl.it to see the lessons, and be sure to do the lessons in order. In order to do the lessons, first click on "Take and Learn", and then go to [Student](https://repl.it/student) and click on the Classroom. You can submit your answers to check them, and a couple of the lessons include 'model solutions'.
 
-### Additional Resources
+### Additional Resources.
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
 * [The Net Ninja's Regular Expressions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
